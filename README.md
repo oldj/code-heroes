@@ -8,6 +8,10 @@
 * 邮箱：oldj.wu@gmail.com
 * 博客：[http://oldj.net](http://oldj.net)
 
+本小说在[简书](http://www.jianshu.com)上的地址：[http://www.jianshu.com/notebooks/300493/latest](http://www.jianshu.com/notebooks/300493/latest)
+
+本小说PDF下载地址：[http://pan.baidu.com/s/1bno4kDT](http://pan.baidu.com/s/1bno4kDT)
+
 ## 目录
 
 * [第 0 章](https://github.com/oldj/code-heros/blob/master/%E6%AD%A3%E6%96%87/0.md)
